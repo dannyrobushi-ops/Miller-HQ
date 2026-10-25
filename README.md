@@ -6,7 +6,7 @@ Public preview: https://miller-hq-2029.danny-robushi.chatgpt.site
 Source repository: https://github.com/dannyrobushi-ops/Miller-HQ
 
 ## October 25 update
-A marble-style welcome page opens the terminal with one Enter the HQ button. The market desk starts with All markets / All regions and shows every matching event in one continuous scroll. Daily CLOB price histories are bundled for all 957 outcomes (247,365 observations) and refresh when visible charts need new data. Charts default to January 1, 2026, support 30/90/180-day and All available ranges, date inspection, and historical CSV export. Gaps over seven days stay disconnected. Data before a contract began is never fabricated.
+A marble-style welcome page opens the terminal with one Enter the HQ button. The market desk starts with All markets / All regions and shows every matching event in one continuous scroll. Daily CLOB price histories are bundled for all 957 outcomes (247,365 observations) and refresh when visible charts need new data. Charts default to May 1, 2026, with January 1, 30/90/180-day and All available alternatives. Wider, taller charts use stronger lines, endpoint values and hover/keyboard tooltips. The Inspect date slider and permanent readout are removed. Historical CSV export remains available. Gaps over seven days stay disconnected. Data before a contract began is never fabricated.
 
 The election archive adds historical finance, period reconciliation and ballot-line coverage. The fiscal desk adds adopted city/education comparisons, proposed request changes, final reduction detail and outside-funding references.
 
@@ -32,3 +32,4 @@ MapLibre GL JS 5.6.1 and OpenFreeMap streets; provider attribution is displayed.
 app.js: core browser-local workspace. enhancements.js: maps and Excel. analytics.js/report-data.js: fiscal and historical election views. markets.js/market-data.js: live market adapter and fallback. seed.js: original factual records. market-history.js/market-charts.js: daily time-series cache and charts. research-details.js: expanded sourced research. welcome.js: landing page. CSS files: design.
 
 No credentials are stored in this repository. Public deployment is managed separately with Sites. Repository pushes do not automatically redeploy the Sites URL.
+
