@@ -5,6 +5,10 @@ Growing the city that works, together.
 Public preview: https://miller-hq-2029.danny-robushi.chatgpt.site
 Source repository: https://github.com/dannyrobushi-ops/Miller-HQ
 
+## National election atlas
+
+The Election markets desk includes a 50-state / 435-district map, Senate and House toggles, leader shading, hover odds, tap/click details, zoom/pan and state search. The 2026 Census geometry uses corrected Missouri boundaries from the prior Congress. Missing markets remain unpriced. State-level markets refresh from Polymarket separately from congressional data. A sourced, CC BY-SA ballot-measure reference index includes prior and upcoming 2026 measures. It is not a certified ballot or a complete local-election roster. Official election-office links are supplied for every state. Team additions import from Excel/CSV/JSON into browser-local workspace datasets and can be exported/backed up.
+
 ## October 25 update
 The marble-style welcome page is present in the initial HTML, so the terminal does not flash before it. One Enter the HQ button opens the workspace. iPhone layouts include a collapsible menu, stacked panels, touch-sized controls, fitted charts and locally scrolling data tables. The market desk starts with All markets / All regions and shows every matching event in one continuous scroll. Daily CLOB price histories are bundled for all 957 outcomes (247,365 observations) and refresh when visible charts need new data. Charts default to May 1, 2026, with January 1, 30/90/180-day and All available alternatives. Wider, taller charts use stronger lines, endpoint values and hover/keyboard tooltips. The Inspect date slider and permanent readout are removed. Historical CSV export remains available. Gaps over seven days stay disconnected. Data before a contract began is never fabricated.
 
@@ -32,4 +36,3 @@ MapLibre GL JS 5.6.1 and OpenFreeMap streets; provider attribution is displayed.
 app.js: core browser-local workspace. enhancements.js: maps and Excel. analytics.js/report-data.js: fiscal and historical election views. markets.js/market-data.js: live market adapter and fallback. seed.js: original factual records. market-history.js/market-charts.js: daily time-series cache and charts. research-details.js: expanded sourced research. welcome.js: landing page. CSS files: design.
 
 No credentials are stored in this repository. Public deployment is managed separately with Sites. Repository pushes do not automatically redeploy the Sites URL.
-

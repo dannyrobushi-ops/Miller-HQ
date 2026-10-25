@@ -1,0 +1,6 @@
+Ballot-measure index adapted from Wikipedia contributors, 2026 United States ballot measures, retrieved October 25, 2026. Text normalized and reorganized by state. Licensed CC BY-SA 4.0. Not a certified ballot or complete local ballot.
+
+Source: https://en.wikipedia.org/wiki/2026_United_States_ballot_measures
+License: https://creativecommons.org/licenses/by-sa/4.0/
+Article history and contributor attribution: https://en.wikipedia.org/w/index.php?title=2026_United_States_ballot_measures&action=history
+The license applies to the adapted ballot index, not to Census public-domain geometry or application code.
