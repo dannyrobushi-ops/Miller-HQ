@@ -5,6 +5,10 @@ Growing the city that works, together.
 Public preview: https://miller-hq-2029.danny-robushi.chatgpt.site
 Source repository: https://github.com/dannyrobushi-ops/Miller-HQ
 
+## Polling / prediction-market switch
+
+A top-level switch changes the atlas, race panels and continuous history cards to reported polling. The initial filtered dataset has 1,290 survey records across 110 House districts, 27 Senate races and 32 governor races. The map uses the latest qualifying poll, not a forecast or win probability. Missing districts stay gray; older polls are labeled. Date filters, source metadata and Excel exports are included. Explicit primaries, supplemental hypothetical questions, incomplete candidate buckets and duplicate surveys are excluded. Where current candidate names are available, the leading pair must match. VoteHub data is CC BY 4.0; supplemental Polling Forecast records retain their row licenses, including Wikipedia CC BY-SA 4.0. Browser refresh retains separate collection timestamps for each source; VoteHub currently blocks cross-origin browser access, so its dated snapshot is preserved while the compatible supplemental feed updates.
+
 ## National election atlas
 
 The Election markets desk includes a 50-state / 435-district map, Senate and House toggles, leader shading, hover odds, tap/click details, zoom/pan and state search. The 2026 Census geometry uses corrected Missouri boundaries from the prior Congress. Missing markets remain unpriced. State-level markets refresh from Polymarket separately from congressional data. A sourced, CC BY-SA ballot-measure reference index includes prior and upcoming 2026 measures. It is not a certified ballot or a complete local-election roster. Official election-office links are supplied for every state. Team additions import from Excel/CSV/JSON into browser-local workspace datasets and can be exported/backed up.

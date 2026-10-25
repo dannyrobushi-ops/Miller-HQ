@@ -1,0 +1,6 @@
+Polling records adapted from VoteHub (CC BY 4.0): https://votehub.com/polls/api/
+https://creativecommons.org/licenses/by/4.0/
+Supplemental records: Polling Forecast, https://www.pollingforecast.com/us/data
+Row-level licenses retained. Wikipedia-derived rows are CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Attribution: Wikipedia contributors, 2026 US state congressional and gubernatorial election polling tables, via Polling Forecast. Original poll links are retained for every record. This adapted combined polling dataset is shared under CC BY-SA 4.0; application code is separate.
+Changes: normalized dates, candidate names, state/district keys; removed primaries, hypothetical question variants, invalid dates, incomplete candidate buckets and duplicate surveys. No source forecast, adjusted margin or win probability is used.
