@@ -4,3 +4,7 @@ const renderBeforeWelcome=render;
 render=function(){const isWelcome=!location.hash||location.hash==='#welcome';document.body.classList.toggle('welcome-mode',isWelcome);if(isWelcome){historyObserver?.disconnect();if(cityMap){cityMap.remove();cityMap=null;cityMarkers=[]}route='welcome';$('#main').innerHTML=welcome();document.title='Miller 2029 · Growing together';return}renderBeforeWelcome()};
 $('.hq-mark').href='#welcome';
 render();
+// Reveal the final route only after all render extensions have initialized.
+document.getElementById("startup-welcome")?.remove();
+document.documentElement.classList.remove("hq-booting","desk-entry");
+
