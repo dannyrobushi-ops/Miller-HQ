@@ -5,6 +5,12 @@ Growing the city that works, together.
 Public preview: https://miller-hq-2029.danny-robushi.chatgpt.site
 Source repository: https://github.com/dannyrobushi-ops/Miller-HQ
 
+## Candidate research
+
+The Candidate research desk contains 878 named House/Senate candidates from the October 25 market roster, 334 matched Voteview records, and an October 27 research sample of 16 profiles / 95 policy statements. Source types distinguish platforms, written Q&A, interviews and appearance excerpts. These are partial research and market-derived candidate labels, not a certified ballot or complete appearance archive.
+
+Issue positions use a transparent, versioned policy rubric. Reviewed statements retain source URLs, dates, attribution, rationale and context; missing or conflicting evidence is never converted into a center score. Voteview's DW-NOMINATE score is displayed separately. The browser-local transcript lab performs experimental phrase matching, speaker filtering and context flagging; it is not a trained or validated language model. It does not crawl sites, transcribe audio/video or send transcripts to an external service. Every proposed item needs source review. Imported Excel/CSV/JSON records stay draft until reviewed. Local evidence is stored in workspace datasets and included in backup; Excel exports include the directory, evidence, policy scores and rubric. The included research source notes document transcript limitations, unknown publication dates and attribution. See CANDIDATE_RESEARCH_SOURCES.txt.
+
 ## Polling / prediction-market switch
 
 A top-level switch changes the atlas, race panels and continuous history cards to reported polling. The initial filtered dataset has 1,290 survey records across 110 House districts, 27 Senate races and 32 governor races. The map uses the latest qualifying poll, not a forecast or win probability. Missing districts stay gray; older polls are labeled. Date filters, source metadata and Excel exports are included. Explicit primaries, supplemental hypothetical questions, incomplete candidate buckets and duplicate surveys are excluded. Where current candidate names are available, the leading pair must match. VoteHub data is CC BY 4.0; supplemental Polling Forecast records retain their row licenses, including Wikipedia CC BY-SA 4.0. Browser refresh retains separate collection timestamps for each source; VoteHub currently blocks cross-origin browser access, so its dated snapshot is preserved while the compatible supplemental feed updates.

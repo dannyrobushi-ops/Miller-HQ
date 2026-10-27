@@ -1,0 +1,20 @@
+MILLER HQ — CANDIDATE RESEARCH
+Snapshot: October 27, 2026. Roster snapshot: October 25, 2026.
+
+ROSTER
+Named candidates only from the existing Polymarket House/Senate snapshot. This is not a certified ballot, not a completeness claim and not a ranking of candidate importance. Party-only contracts are not converted into named people. Matching to congressional records requires compatible names, state and chamber; ambiguous matches are omitted.
+
+VOTING RECORDS
+Lewis, Jeffrey B., Keith Poole, Howard Rosenthal, Adam Boche, Aaron Rudkin, and Luke Sonnet (2026). Voteview: Congressional Roll-Call Votes Database. https://voteview.com/
+https://voteview.com/static/data/out/members/HS119_members.csv
+https://voteview.com/articles/data_help_members
+Downloaded October 27, 2026. The displayed value is the unmodified nominate_dim1 field. It is a roll-call similarity measure, not a per-issue score. See Voteview for interpretation and current revisions. Members absent from the 119th Congress and unmatched candidate names do not receive this score.
+
+POLICY AND APPEARANCE EVIDENCE
+Each row in candidate-data.js records the original source URL, publisher, source kind, publication date when available, source context and an editorial paraphrase. 16 initial profiles span both parties in CT-4, CO-8, NY-17, PA-8 and Senate races in TX, NC, MI and OH. Full speeches/recordings have not been independently watched or listened to. Written questionnaires are not represented as spoken interviews. Original reporting of a candidate appearance is not represented as a full transcript. Undated sources remain undated. WOSU's publisher-labeled AI transcript is draft evidence pending an audio check; it is excluded from accepted policy scores. Some campaign pages retain older references. Campaign claims of accomplishment are not independently audited here.
+
+POLICY RUBRIC
+Version 2026-10-27 / text analyzer 0.1. This is a transparent editorial framework and an experimental local text-matching engine, not a trained or validated statistical language model. Anchors and rationale are available in the site and export. -2/+2 are relative endpoints on the stated US policy rubric, not an objective extremism measure. Many issues are multidimensional. Contradictory directional evidence is shown as mixed, not zero. Same-direction anchors show their range and midpoint. Duplicate canonical source URLs and dates count once. Counts describe evidence breadth, not confidence probabilities. No temporal decay or automatic change-of-position inference is implemented.
+
+LOCAL EVIDENCE
+New notes and evidence stay in the user's browser. Imported rows return to draft. The transcript lab does not fetch source URLs, upload transcripts, call an external AI model, or transcribe audio/video. It extracts candidate-labeled text where possible, flags ambiguous language, and requires review of every saved item. Save only excerpts you have a right to use. Public source links remain in all exports.
